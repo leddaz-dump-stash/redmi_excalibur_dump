@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.211019.001 V14.0.2.0.SJXINXM release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: excalibur
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.211019.001
+- incremental: V14.0.2.0.SJXINXM
+- tags: release-keys
+- fingerprint: Redmi/excalibur_in/excalibur:12/RKQ1.211019.001/V14.0.2.0.SJXINXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-12-SKQ1.211019.001-V14.0.2.0.SJXINXM-release-keys
+- repo: redmi_excalibur_dump
